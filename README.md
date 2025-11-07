@@ -2,13 +2,7 @@
 
 <div align="center">
 
-[![Node.js](https://img.shields.io/badge/Node.js-12.18.3-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-
-[![Express](https://img.shields.io/badge/Express-4.x-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-
-[![CORS](https://img.shields.io/badge/CORS-enabled-5e5e5e?style=for-the-badge)](https://developer.mozilla.org/docs/Web/HTTP/CORS)
-
-[![Moment.js](https://img.shields.io/badge/Moment.js-2.29.1-1a1a1a?style=for-the-badge)](https://momentjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-12.18.3-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-4.x-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![CORS](https://img.shields.io/badge/CORS-enabled-5e5e5e?style=for-the-badge)](https://developer.mozilla.org/docs/Web/HTTP/CORS) [![Moment.js](https://img.shields.io/badge/Moment.js-2.29.1-1a1a1a?style=for-the-badge)](https://momentjs.com/)
 
 </div>
 
